@@ -20,4 +20,5 @@ On the other hand, if they type movie for the first interactive step, it will co
 
 ### 3. User guide:
 Install requirements.txt
+
 Run the final_proj.py in the command line
