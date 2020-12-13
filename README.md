@@ -1,5 +1,5 @@
-# FinalProject
-## If you’d like to see further information, please go to final_project file.
+# FinalProject_szlee
+## If you’d like to see further information, please go to final_project.docx.
 
 ### 1. API Application:
 Yelp API & The Movie Database(TMD) API 
