@@ -3,10 +3,15 @@
 
 ### 1. API Application:
 Yelp API & The Movie Database(TMD) API 
+
 Please put your API key in “secret.py” file, the format of API Key will be like
+
 API_KEY=””(This is for Yelp)
+
 client_ID =””(This is for Yelp)
+
 API_KEY_M=””(This is for TMD)
+
 API_token_M=””(This is for TMD)
 
 ### 2. Code structure:
