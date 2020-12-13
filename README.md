@@ -19,9 +19,9 @@ final_proj.py
 
 In the first part, I created an database and table for both Yelp and The Movie Database. There are six fields in Restaurant table, including Id, Name, Rating, Address, Phone and Res_id; there are eight columns in Movie table, including Id, Title, Popularity, Release_Date, Revenue, Run_time, Vote_count and Vote_avg.
 
-Secondly, user can choose which information they want to know, restaurants or movie. If they type restaurant, it will connect to Restaurant table in yelp_db database. I applied cache and infoYelp() to retrieve data from Yelp based on a city and a category which entering by user. After typing a city and a category, it will return top 5 restaurant which contain name, phone, address and rating information based on their search word.
+Secondly, user can choose which information they want to know, restaurants or movie. If they type restaurant, it will connect to Restaurant table in yelp_db database. I applied cache and infoYelp() to retrieve data from Yelp based on a city and a category which entering by user. After typing a city and a category, it will return top 5 restaurants which contain name, phone, address and rating information based on their search words.
 
-On the other hand, if they type movie for the first interactive step, it will connect to Movie table in movie_db database. The user can enter the presentation of the data they want to see, the dataframe or bar graph, they can also choose how to order the data. 
+On the other hand, if the user types movie for the first interactive step, it will connect to Movie table in movie_db database. The user can enter the presentation of the data they wish the data to display, the data or bar graph, they can also choose how to order the data (order by popularity, average or count). 
 
 ### 3. User guide:
 Install requirements.txt
